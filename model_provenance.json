@@ -1,0 +1,11 @@
+{
+  "model": "BAAI/bge-m3",
+  "weights_path": "/home/ailab/data/HippoRAG/hipporag_local/models/bge-m3",
+  "repository": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "mode": "dense",
+  "dimension": 1024,
+  "normalize": true,
+  "dtype": "float16",
+  "local_files_only": true
+}

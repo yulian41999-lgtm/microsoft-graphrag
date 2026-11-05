@@ -1,0 +1,18 @@
+{
+  "source_root": "/home/ailab/data/HippoRAG/hipporag_local/data/banking",
+  "unique_source_documents": 1700,
+  "nonempty_documents": 1700,
+  "selected_documents": 5,
+  "characters": 7603,
+  "skipped_empty": [],
+  "duplicate_policy": "prefer HTML with same DOC id",
+  "qa_data_ingested": false,
+  "output_sha256": "c3ec5a11b88c33e5e7e7061cfc699287f5efd56019cc0ba4dee520b3db518634",
+  "selected_ids": [
+    "DOC008801",
+    "DOC008729",
+    "DOC000827",
+    "DOC000227",
+    "DOC000751"
+  ]
+}

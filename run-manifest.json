@@ -1,0 +1,28 @@
+{
+  "graphrag_version": "3.3.0",
+  "generation_model": "qwen3.8-27B-raw",
+  "generation_base_url": "http://10.253.170.81:8006/v1",
+  "embedding_model": "BAAI/bge-m3",
+  "embedding_base_url": "http://127.0.0.1:18086/v1",
+  "settings_sha256": "01db05b528191e37079ce539fa32383b04a1b8a82dbf7787cc5b43b6c8abdc11",
+  "prompt_sha256": {
+    "basic_search_system_prompt.txt": "91999d2e6aa36fb2135ed9d492711cf188826cdb3a90cd18d83b279ebcbffca2",
+    "community_report_graph.txt": "507770f53efcef991de24f8e93c70e77842f5e26e67f41496c0b53c0d4e4adaa",
+    "community_report_text.txt": "4eb87bf2c0615e98c8b07f7ae903d38ece80fd591cfd98af0cf6e98665411aa4",
+    "drift_reduce_prompt.txt": "17e27825095dc1c6449dc3eed5d21d018f938c3ed255d67778f9bfd16ab7ec7c",
+    "drift_search_system_prompt.txt": "05ccc9280e36beff5f1303fb3712f47a2e96f40411b379eaeb1b6891521fd6f3",
+    "extract_claims.txt": "e3211f8dbb0c19610cd344de4d2877122a0d15d16b69c2b6d329f00e6a097b69",
+    "extract_graph.txt": "484442db5b078ab3cafac882971fb44b62836696f49f02081d8f0bd8a4e218be",
+    "global_search_knowledge_system_prompt.txt": "29da82dd4a70126780113d5442a3823c4e8711221877bd5669914d9299f9aab5",
+    "global_search_map_system_prompt.txt": "27af9a10d7c6e517f9ef980193cbcd8eec81e0c173cc44f21931dfb1bff0ea43",
+    "global_search_reduce_system_prompt.txt": "06d508c7fbf3328aa79ba07b4f4a255f56f94bcced824dede3882d0de3e85bbd",
+    "local_search_system_prompt.txt": "ee5937835f716eb6eeb662f37a26785040ce8da31dd2bbef721cf22889671acc",
+    "question_gen_system_prompt.txt": "cc559f0243f6039c877636a08cc6f39c0e09baa27768a979e2f9ede3adb50e30",
+    "summarize_descriptions.txt": "01b61aee1ce983f657931ab9ef7fa93c29563782eb860dcc278dd16f0b81b34c"
+  },
+  "data_sha256": "e99063858257a5a9b5846731e3566b12672004939d0b3320b097d30c4f3e50a8",
+  "source_documents": 1700,
+  "credentials_recorded": false,
+  "concurrent_requests": 6,
+  "active_run_directory": "/home/ailab/data/HippoRAG/Microsoft_GraphRAG/outputs/full_index_c6_20261030-172142"
+}

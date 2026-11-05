@@ -1,0 +1,239 @@
+{
+  "scores": {
+    "saved_api_responses": 91,
+    "attempts": 91,
+    "responses_with_usage": 91,
+    "usage_complete": true,
+    "recorded_usage_subtotal": {
+      "prompt_tokens": 245534,
+      "completion_tokens": 45220,
+      "total_tokens": 290754
+    },
+    "prompt_tokens": 245534,
+    "completion_tokens": 45220,
+    "total_tokens": 290754,
+    "api_seconds_sum": null,
+    "api_seconds_average": null,
+    "failed_attempts": 2,
+    "unknown_consumption_attempts": 0
+  },
+  "repair": {
+    "saved_api_responses": 1,
+    "attempts": 1,
+    "responses_with_usage": 1,
+    "usage_complete": true,
+    "recorded_usage_subtotal": {
+      "prompt_tokens": 2428,
+      "completion_tokens": 3260,
+      "total_tokens": 5688
+    },
+    "prompt_tokens": 2428,
+    "completion_tokens": 3260,
+    "total_tokens": 5688,
+    "api_seconds_sum": null,
+    "api_seconds_average": null,
+    "failed_attempts": 0,
+    "unknown_consumption_attempts": 0
+  },
+  "historical_qa": {
+    "service_usage": "未记录",
+    "rows": 15,
+    "core_seconds": 199.8605
+  },
+  "index_stats": {
+    "total_runtime": 87769.77694320679,
+    "num_documents": 1700,
+    "update_documents": 0,
+    "input_load_time": 0,
+    "workflows": {
+      "load_input_documents": {
+        "overall": 0.8395497798919678,
+        "peak_memory_bytes": 37724577,
+        "memory_delta_bytes": 1040148,
+        "tracemalloc_overhead_bytes": 927472
+      },
+      "create_base_text_units": {
+        "overall": 7.807196855545044,
+        "peak_memory_bytes": 68101086,
+        "memory_delta_bytes": 24671494,
+        "tracemalloc_overhead_bytes": 29804304
+      },
+      "create_final_documents": {
+        "overall": 1.1784272193908691,
+        "peak_memory_bytes": 45252341,
+        "memory_delta_bytes": 270929,
+        "tracemalloc_overhead_bytes": 118352
+      },
+      "extract_graph": {
+        "overall": 48807.42379927635,
+        "peak_memory_bytes": 235340396,
+        "memory_delta_bytes": 38944888,
+        "tracemalloc_overhead_bytes": 30446288
+      },
+      "finalize_graph": {
+        "overall": 32.92390513420105,
+        "peak_memory_bytes": 109735839,
+        "memory_delta_bytes": 168670,
+        "tracemalloc_overhead_bytes": 290768
+      },
+      "extract_covariates": {
+        "overall": 0.00013637542724609375,
+        "peak_memory_bytes": 6465,
+        "memory_delta_bytes": 432,
+        "tracemalloc_overhead_bytes": 2160
+      },
+      "create_communities": {
+        "overall": 15.087889194488525,
+        "peak_memory_bytes": 108905510,
+        "memory_delta_bytes": 1106769,
+        "tracemalloc_overhead_bytes": 1810576
+      },
+      "create_final_text_units": {
+        "overall": 18.42056679725647,
+        "peak_memory_bytes": 56158790,
+        "memory_delta_bytes": 73434,
+        "tracemalloc_overhead_bytes": 135888
+      },
+      "create_community_reports": {
+        "overall": 37896.92187190056,
+        "peak_memory_bytes": 389093582,
+        "memory_delta_bytes": 40452269,
+        "tracemalloc_overhead_bytes": 25973840
+      },
+      "generate_text_embeddings": {
+        "overall": 988.9137587547302,
+        "peak_memory_bytes": 151350312,
+        "memory_delta_bytes": 18125563,
+        "tracemalloc_overhead_bytes": 15105056
+      }
+    }
+  },
+  "historical_library_metrics": {
+    "openai/bge-m3": {
+      "attempted_request_count": 11080,
+      "successful_response_count": 11080,
+      "failed_response_count": 0,
+      "failure_rate": 0.0,
+      "requests_with_retries": 0,
+      "retries": 0,
+      "retry_rate": 0.0,
+      "compute_duration_seconds": 2156.062695980072,
+      "compute_duration_per_response_seconds": 0.1945904960270823,
+      "cache_hit_rate": 0.0,
+      "streaming_responses": 0,
+      "responses_with_tokens": 11080,
+      "prompt_tokens": 9289677,
+      "total_tokens": 9289677,
+      "tokens_per_response": 838.4185018050541,
+      "cost_per_response": 0.0
+    },
+    "openai/qwen3.8-27B-raw": {
+      "attempted_request_count": 28818,
+      "successful_response_count": 28818,
+      "failed_response_count": 0,
+      "failure_rate": 0.0,
+      "requests_with_retries": 0,
+      "retries": 0,
+      "retry_rate": 0.0,
+      "compute_duration_seconds": 553855.931196928,
+      "compute_duration_per_response_seconds": 19.219096786623915,
+      "cached_responses": 2357,
+      "cache_hit_rate": 0.08178915955305711,
+      "streaming_responses": 0,
+      "responses_with_tokens": 28818,
+      "prompt_tokens": 25523351,
+      "completion_tokens": 14616394,
+      "total_tokens": 40139745,
+      "tokens_per_response": 1392.8706017072664,
+      "cost_per_response": 0.0
+    }
+  },
+  "historical_library_metrics_note": "Library cumulative usage from retained responses, includes cache hits; not actual new API-only usage. No repeated summation of cumulative snapshots.",
+  "retained_index_cache_responses": {
+    "community_reporting": {
+      "files": 7112,
+      "parse_errors": 0,
+      "duplicate_ids": 0,
+      "saved_api_responses": 7112,
+      "attempts": 7112,
+      "responses_with_usage": 7112,
+      "usage_complete": true,
+      "recorded_usage_subtotal": {
+        "prompt_tokens": 7816691,
+        "completion_tokens": 6082037,
+        "total_tokens": 13898728
+      },
+      "prompt_tokens": 7816691,
+      "completion_tokens": 6082037,
+      "total_tokens": 13898728,
+      "api_seconds_sum": null,
+      "api_seconds_average": null,
+      "failed_attempts": 0,
+      "unknown_consumption_attempts": 0
+    },
+    "extract_graph": {
+      "files": 8024,
+      "parse_errors": 0,
+      "duplicate_ids": 0,
+      "saved_api_responses": 8024,
+      "attempts": 8024,
+      "responses_with_usage": 8024,
+      "usage_complete": true,
+      "recorded_usage_subtotal": {
+        "prompt_tokens": 13759694,
+        "completion_tokens": 5879666,
+        "total_tokens": 19639360
+      },
+      "prompt_tokens": 13759694,
+      "completion_tokens": 5879666,
+      "total_tokens": 19639360,
+      "api_seconds_sum": null,
+      "api_seconds_average": null,
+      "failed_attempts": 0,
+      "unknown_consumption_attempts": 0
+    },
+    "summarize_descriptions": {
+      "files": 13678,
+      "parse_errors": 0,
+      "duplicate_ids": 0,
+      "saved_api_responses": 13678,
+      "attempts": 13678,
+      "responses_with_usage": 13678,
+      "usage_complete": true,
+      "recorded_usage_subtotal": {
+        "prompt_tokens": 3935885,
+        "completion_tokens": 2651774,
+        "total_tokens": 6587659
+      },
+      "prompt_tokens": 3935885,
+      "completion_tokens": 2651774,
+      "total_tokens": 6587659,
+      "api_seconds_sum": null,
+      "api_seconds_average": null,
+      "failed_attempts": 0,
+      "unknown_consumption_attempts": 0
+    },
+    "text_embedding": {
+      "files": 11079,
+      "parse_errors": 0,
+      "duplicate_ids": 0,
+      "saved_api_responses": 11079,
+      "attempts": 11079,
+      "responses_with_usage": 11079,
+      "usage_complete": true,
+      "recorded_usage_subtotal": {
+        "prompt_tokens": 9289664,
+        "completion_tokens": 0,
+        "total_tokens": 9289664
+      },
+      "prompt_tokens": 9289664,
+      "completion_tokens": 0,
+      "total_tokens": 9289664,
+      "api_seconds_sum": null,
+      "api_seconds_average": null,
+      "failed_attempts": 0,
+      "unknown_consumption_attempts": 0
+    }
+  },
+  "cache_scope_note": "Retained historical responses, deduplicated by response ID across cache directories; not all attempts or full historical consumption. Failed/noncached requests may be absent; API timing and complete historical calendar time 未记录."
+}

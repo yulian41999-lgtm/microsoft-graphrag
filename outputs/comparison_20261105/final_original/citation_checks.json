@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "Compliance-F001",
+    "marker_count": 5,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12128",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1118",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "22437",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1118",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12128",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "22437",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "22438",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F002",
+    "marker_count": 4,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1430",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1439",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12510",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1430",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1439",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12510",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "3161",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12510",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "3161",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F003",
+    "marker_count": 5,
+    "references": [
+      {
+        "table": "Entities",
+        "id": "4160",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "2411",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "3254",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "2411",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "2483",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F004",
+    "marker_count": 3,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1378",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1379",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12288",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1377",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1378",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1379",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1380",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1381",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12283",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12284",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12284",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F005",
+    "marker_count": 7,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1359",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11737",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11737",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11737",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1322",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1325",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1286",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11737",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F006",
+    "marker_count": 3,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12846",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1493",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12846",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12843",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12843",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "24365",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "24430",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F007",
+    "marker_count": 10,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9895",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9895",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9895",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "965",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9895",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1481",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "408",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "395",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F008",
+    "marker_count": 9,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9948",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "4387",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "977",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "977",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "977",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "978",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "979",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9943",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9948",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "4387",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "977",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "978",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "979",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "976",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "977",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "978",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "979",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9943",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "9948",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "979",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "5981",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F009",
+    "marker_count": 5,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "106",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1615",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "2284",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "106",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "2284",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1615",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "9320",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "106",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1615",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "9320",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "497",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "498",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-F010",
+    "marker_count": 3,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1384",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12317",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12303",
+        "in_actual_context": true
+      },
+      {
+        "table": "Relationships",
+        "id": "22834",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1384",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1384",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12317",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-R001",
+    "marker_count": 10,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1385",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1385",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1472",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1473",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1474",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "49",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1473",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1474",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "5517",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "29010",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "4527",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1385",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1472",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1473",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1474",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "49",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "5517",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "29010",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-R002",
+    "marker_count": 8,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12846",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12843",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1489",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1489",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12843",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12846",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1490",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1490",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12843",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1489",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1490",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1492",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1493",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1493",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-R003",
+    "marker_count": 15,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "6612",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "6610",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1248",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1413",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11514",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12488",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12489",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12490",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12489",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12533",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1248",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1413",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12533",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12533",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "638",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "6612",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "637",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "638",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1248",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1413",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-R004",
+    "marker_count": 16,
+    "references": [
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1611",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1606",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1606",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "28997",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1606",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1614",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1611",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1358",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12326",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1735",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "123",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "124",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1385",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1556",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "29021",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "105",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  },
+  {
+    "id": "Compliance-R005",
+    "marker_count": 14,
+    "references": [
+      {
+        "table": "Sources",
+        "id": "1359",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12137",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "23287",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "108",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1322",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1522",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "15010",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1359",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "11737",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1360",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "12137",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "1359",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "108",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1322",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1507",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "1522",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "75",
+        "in_actual_context": true
+      },
+      {
+        "table": "Sources",
+        "id": "108",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "15010",
+        "in_actual_context": true
+      },
+      {
+        "table": "Entities",
+        "id": "17355",
+        "in_actual_context": true
+      }
+    ],
+    "invalid_reference_count": 0,
+    "unparsed": [],
+    "status": "record_ids_valid",
+    "semantic_support": "not automatically established by record-ID checks"
+  }
+]

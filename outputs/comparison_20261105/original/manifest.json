@@ -1,0 +1,82 @@
+{
+  "started_at": "2026-11-05T01:58:43.890683+00:00",
+  "mode": "original",
+  "index_identity": {
+    "root": "/home/ailab/data/HippoRAG/Microsoft_GraphRAG",
+    "table_files": {
+      "entities": {
+        "size": 6187373,
+        "mtime_ns": 1793414330390966399
+      },
+      "communities": {
+        "size": 9888325,
+        "mtime_ns": 1793414345558844992
+      },
+      "community_reports": {
+        "size": 32781919,
+        "mtime_ns": 1793452260845124328
+      },
+      "text_units": {
+        "size": 8391706,
+        "mtime_ns": 1793414363842698504
+      },
+      "relationships": {
+        "size": 6719996,
+        "mtime_ns": 1793414329818970978
+      },
+      "documents": {
+        "size": 8444261,
+        "mtime_ns": 1793365490044562708
+      }
+    },
+    "input/banking.manifest.json_sha256": "d66e026d0badbc0a7e350f6940c2f25ee67043ed4402e54916a1e0aecc5e8701",
+    "settings.yaml_sha256": "01db05b528191e37079ce539fa32383b04a1b8a82dbf7787cc5b43b6c8abdc11"
+  },
+  "generation_model": "qwen3.8-27B-raw",
+  "embedding_model": "bge-m3",
+  "index_fingerprint": "96e39a1068842fb6c38035547eda5634e877dacd98c716cb3050673f8283c9a3",
+  "prompt_sha256": "ee5937835f716eb6eeb662f37a26785040ce8da31dd2bbef721cf22889671acc",
+  "community_level": 0,
+  "generation_parameters": {
+    "temperature": 0,
+    "max_tokens": 4096,
+    "timeout": 180
+  },
+  "context_builder_params": {
+    "text_unit_prop": 0.65,
+    "community_prop": 0.1,
+    "conversation_history_max_turns": 5,
+    "conversation_history_user_turns_only": true,
+    "top_k_mapped_entities": 15,
+    "top_k_relationships": 20,
+    "include_entity_rank": true,
+    "include_relationship_weight": true,
+    "include_community_rank": false,
+    "return_candidate_context": false,
+    "embedding_vectorstore_key": "id",
+    "max_context_tokens": 10000
+  },
+  "cache": "generation cache bypassed; existing retrieval embedding cache policy identical; fresh engine per mode",
+  "graph_description_provenance": "entities/relationships descriptions: historical model extraction and description merging from corpus; reports: historical model community summaries, derived records, not primary text; may contain quotations; no new descriptions generated",
+  "generation_transport": "nonstream OpenAI compatible, server usage retained; same for both modes",
+  "preflight_api_calls": 0,
+  "finished_at": "2026-11-05T02:02:34.945787+00:00",
+  "core_qa_seconds": 216.8309290036559,
+  "calendar_seconds": 231.05511760525405,
+  "cost": {
+    "saved_api_responses": 15,
+    "attempts": 15,
+    "responses_with_usage": 15,
+    "usage_complete": true,
+    "prompt_tokens": 78375,
+    "completion_tokens": 9016,
+    "total_tokens": 87391,
+    "api_seconds_sum": 183.4284989181906,
+    "api_seconds_average": 12.22856659454604,
+    "failed_attempts": 0
+  },
+  "state": "complete",
+  "statuses": {
+    "ok": 15
+  }
+}

@@ -1,0 +1,10 @@
+.env
+.venv*/
+.cache/
+tmp/
+logs/
+output/
+cache/
+input/
+*.pid
+.index.lock

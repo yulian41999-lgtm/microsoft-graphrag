@@ -1,0 +1,13 @@
+{
+  "state": "complete",
+  "started_at": "2026-10-30T21:04:37.458164+08:00",
+  "pid": 3322309,
+  "session_id": 3322309,
+  "log_file": "/home/ailab/data/HippoRAG/Microsoft_GraphRAG/logs/full-index-detached-20261030-210437-439874.log",
+  "concurrent_requests": 6,
+  "source_documents": 1700,
+  "full_run_started": true,
+  "launch_mode": "nohup + new session + file stdio",
+  "exit_code": 0,
+  "finished_at": "2026-10-31T21:27:30.984870+08:00"
+}

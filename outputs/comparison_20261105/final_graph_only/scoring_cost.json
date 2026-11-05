@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-11-05T02:21:44.115129+00:00",
+  "finished_at": "2026-11-05T02:33:04.146942+00:00",
+  "calendar_seconds": 680.0318261310458,
+  "cost": {
+    "saved_api_responses": 90,
+    "attempts": 90,
+    "responses_with_usage": 90,
+    "usage_complete": true,
+    "recorded_usage_subtotal": {
+      "prompt_tokens": 102185,
+      "completion_tokens": 37385,
+      "total_tokens": 139570
+    },
+    "prompt_tokens": 102185,
+    "completion_tokens": 37385,
+    "total_tokens": 139570,
+    "api_seconds_sum": 664.9179784413427,
+    "api_seconds_average": 7.387977538237141,
+    "failed_attempts": 0,
+    "unknown_consumption_attempts": 0
+  },
+  "preflight_api_calls": 0
+}

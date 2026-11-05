@@ -1,0 +1,31 @@
+{
+  "status": "index_and_query_smoke_passed",
+  "scope": "smoke",
+  "counts": {
+    "documents": 5,
+    "text_units": 10,
+    "entities": 75,
+    "relationships": 93,
+    "communities": 17,
+    "community_reports": 17
+  },
+  "embedding_vector_size": 1024,
+  "embedding_vector_counts": {
+    "entity_description": 75,
+    "community_full_content": 17,
+    "text_unit_text": 10
+  },
+  "all_vectors_finite_normalized": true,
+  "relationship_endpoints_valid": true,
+  "synthetic_example_entities_absent": true,
+  "community_reports_have_citations": true,
+  "source_manifest_sha256": "259656f240cf096f26ae3b036e88f9e8afa20ea30c0b24fe0b6c2d5cd33c8598",
+  "settings_sha256": "243e6137797ce4318622163c3c3f961ab13d81edc47f7414edfb8ec432657dae",
+  "qa_data_ingested": false,
+  "query_checks": {
+    "local_answer_matches_source_institution_and_35_wan_fine": true,
+    "local_and_global_have_data_citations": true,
+    "commonmark_no_pipe_tables": true
+  },
+  "verified_at": "2026-10-30T15:37:43.113343+08:00"
+}
